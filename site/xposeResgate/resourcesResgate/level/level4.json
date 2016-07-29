@@ -1,0 +1,20 @@
+[
+{"t":0.0008, "levelScene":["Mountains"]},
+{"t":0.0009, "setlevelBPMs":[[130, 150, 170, 190, 210]]},
+{"t":0.0010, "addLevelTime":[40]},
+{"t":0.0011, "addFireFightening":[5]},
+{"t":0.0012, "addStartLoopDuration":[11]},
+{"t":0.0014, "pauseTimeline":[]},
+
+{"t":0.0100, "c":{"LEVEL4FIRSTTIME":true}, "addTutorialIceCube":[]},
+{"t":0.0200, "addLevelIndicator":[]},
+
+{"t":0.0500, "endTutorial":[]},
+
+{"t":8.00000,"addBlockTree":[]},
+{"t":15.00000,"addPostman":["icecube"]},
+{"t":21.00000,"addBlockTree":[]},
+{"t":26.00000,"addPostman":["icecube"]},
+{"t":32.00000,"addBlockTree":[]}
+
+]

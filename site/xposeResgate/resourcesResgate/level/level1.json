@@ -1,0 +1,24 @@
+[
+{"t":0.0008, "levelScene":["Florest"]},
+{"t":0.0009, "setlevelBPMs":[[100,120,140,160,180]]},
+{"t":0.0010, "addLevelTime":[90]},
+{"t":0.0011, "addFireFightening":[3]},
+{"t":0.0012, "addStartLoopDuration":[10]},
+{"t":0.0014, "pauseTimeline":[]},
+
+{"t":0.0100, "c":{"LEVEL1FIRSTTIME":true}, "addTutorialGamePlay":[]},
+{"t":0.0200, "addLevelIndicator":[]},
+
+{"t":0.0500, "endTutorial":[]},
+
+
+{"t":5.00000,"addPostman":["icecube"]},
+{"t":15.00000,"addPostman":["health"]},
+{"t":25.00000,"addPostman":["icecube"]},
+{"t":35.00000,"addPostman":["health"]},
+{"t":45.00000,"addPostman":["icecube"]},
+{"t":55.00000,"addPostman":["health"]},
+{"t":65.00000,"addPostman":["icecube"]},
+{"t":75.00000,"addPostman":["health"]}
+
+]

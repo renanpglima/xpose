@@ -1,0 +1,212 @@
+[
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Apito", 
+        "wrongs": ["Despertador","Chuveiro","Ganza","Morcego","Pandeiro"], 
+        "sound": ["apito"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Britadeira", 
+        "wrongs": ["RecoReco","Prato","Sanitario","Caixa","Freada"], 
+        "sound": ["britadeira"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Cachoeira", 
+        "wrongs": ["Morcego","Lobo","Ônibus","Pandeiro","Prato"], 
+        "sound": ["cachoeira"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Chimbal", 
+        "wrongs": ["Despertador","Chuveiro","Grilo","Moto","Prato"], 
+        "sound": ["chimbal"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Cobra", 
+        "wrongs": ["Freada","Grilo","Lobo","Sanitario","Riacho"], 
+        "sound": ["cobra"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Freada", 
+        "wrongs": ["Prato","Ganza","RecoReco","TV","Sanitario"], 
+        "sound": ["freada"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Grilo", 
+        "wrongs": ["Ônibus","Ganza","Vassoura","Talheres","Riacho"], 
+        "sound": ["grilo"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Morcego", 
+        "wrongs": ["Ônibus","Lobo","Riacho","TV","RecoReco"], 
+        "sound": ["morcego"]
+    },
+     {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Baixo", 
+        "wrongs": ["Caixa","Freada","Moto","Vaca","Coruja"], 
+        "sound": ["baixo"]
+    },
+     {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Bateria", 
+        "wrongs": ["Cavalo","Guitarra","Baixo","Ônibus","Moto"], 
+        "sound": ["bateria"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Caixa", 
+        "wrongs": ["Freada","Guitarra","Macaco","Bateria","Vaca"], 
+        "sound": ["caixa"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Coruja", 
+        "wrongs": ["Caixa","Freada","Moto","Vaca","Ônibus"], 
+        "sound": ["coruja"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Freada", 
+        "wrongs": ["Moto","Guitarra","Macaco","Bateria","Vaca"], 
+        "sound": ["freada"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Macaco", 
+        "wrongs": ["Moto","Guitarra","Freada","Bateria","Vaca"], 
+        "sound": ["macaco"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Ônibus", 
+        "wrongs": ["Moto","Guitarra","Freada","Bateria","Vaca"], 
+        "sound": ["onibus"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Cavalo", 
+        "wrongs": ["Moto","Guitarra","Freada","Bateria","Vaca"], 
+        "sound": ["cavalo"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Bem-te-vi", 
+        "wrongs": ["Buzina","Coruja","Sino de Igreja","Porta","Bumbo"], 
+        "sound": ["bemtevi"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Bumbo", 
+        "wrongs": ["Piano","Coruja","Talheres","Porta","Tamborim"], 
+        "sound": ["bumbo"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Cachorro", 
+        "wrongs": ["Piano","Tom","Buzina","Porta","Triangulo"], 
+        "sound": ["cachorro"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Porta", 
+        "wrongs": ["Buzina","Coruja","Sino de Igreja","Triangulo","Bumbo"], 
+        "sound": ["porta"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Sino de Igreja", 
+        "wrongs": ["Piano","Tom","Buzina","Porta","Triangulo"], 
+        "sound": ["sinoDeIgreja"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Talheres", 
+        "wrongs": ["Piano","Coruja","Triangulo","Porta","Tamborim"], 
+        "sound": ["talheres"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Cantor", 
+        "wrongs": ["Coral","Ovelha","Sino de Igreja","Bombeiros","Freada"], 
+        "sound": ["cantor"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Coral", 
+        "wrongs": ["Coruja","Lobo","Ambulancia","Ovelha","Gato"], 
+        "sound": ["coral"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Bombeiros", 
+        "wrongs": ["Freada","Lobo","Galo","Ovelha","Gato"], 
+        "sound": ["bombeiros"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Galo", 
+        "wrongs": ["Coral","Ovelha","Gato","Bombeiros","Freada"], 
+        "sound": ["galo"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Grilo", 
+        "wrongs": ["Freada","Lobo","Galo","Ovelha","Gato"], 
+        "sound": ["grilo"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Ovelha", 
+        "wrongs": ["Coral","Galo","Gato","Bombeiros","Freada"], 
+        "sound": ["ovelha"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Sino de Igreja", 
+        "wrongs": ["Coruja","Lobo","Ambulancia","Ovelha","Gato"], 
+        "sound": ["sinoDeIgreja"]
+    },
+	{
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Bumbo", 
+        "wrongs": ["Apito","Caixa","Tom","Teclado","Violao"], 
+        "sound": ["bumbo"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Ganza", 
+        "wrongs": ["RecoReco","Pandeiro","Tom","Trompete","Violao"], 
+        "sound": ["ganza"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Pandeiro", 
+        "wrongs": ["RecoReco","Ganza","Tom","Trompete","Violao"], 
+        "sound": ["pandeiro"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Piano", 
+        "wrongs": ["Sax","Tamborim","Tom","Triangulo","Violino"], 
+        "sound": ["piano"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "RecoReco", 
+        "wrongs": ["Violao","Pandeiro","Tom","Trompete","Tamborim"], 
+        "sound": ["recoreco"]
+    },
+    {
+		"question": "Qual destes sons você ouviu?",
+        "correct": "Tamborim", 
+        "wrongs": ["Sax","Piano","Tom","Triangulo","Violino"], 
+        "sound": ["tamborim"]
+    }
+]

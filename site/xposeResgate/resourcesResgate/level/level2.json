@@ -1,0 +1,18 @@
+[
+{"t":0.0008, "levelScene":["Florest"]},
+{"t":0.0009, "setlevelBPMs":[[110, 130, 150, 170, 190]]},
+{"t":0.0010, "addLevelTime":[30]},
+{"t":0.0011, "addFireFightening":[3]},
+{"t":0.0012, "addStartLoopDuration":[10]},
+{"t":0.0014, "pauseTimeline":[]},
+
+{"t":0.0100, "c":{"LEVEL2FIRSTTIME":true}, "addTutorialBlockTree":[]},
+{"t":0.0200, "addLevelIndicator":[]},
+
+{"t":0.0500, "endTutorial":[]},
+
+{"t":7.00000,"addBlockTree":[]},
+{"t":14.00000,"addBlockTree":[]},
+{"t":21.00000,"addBlockTree":[]}
+
+]

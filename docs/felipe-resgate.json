@@ -1,0 +1,45 @@
+[
+   {
+      "value":2,
+      "attributeName":"hpBoxValue",
+      "fantasyName":"energia ganha ao pegar HP",
+      "changeLog":[
+         2
+      ]
+   },
+   {
+      "value":15,
+      "attributeName":"loopDuration",
+      "fantasyName":"tempo para vagao pegar fogo",
+      "changeLog":[
+         20,
+         15
+      ]
+   },
+   {
+      "value":10,
+      "attributeName":"fireFightening",
+      "fantasyName":"tempo jogando agua para apagar",
+      "changeLog":[
+
+      ]
+   },
+   {
+      "value":5,
+      "attributeName":"hpNumber",
+      "fantasyName":"energia perdida ao queimar vagao",
+      "changeLog":[
+         5
+      ]
+   },
+   {
+      "value":10,
+      "attributeName":"iceCount",
+      "fantasyName":"batidas para quebrar gelo",
+      "changeLog":[
+         5,
+         8,
+         10
+      ]
+   }
+]

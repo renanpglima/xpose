@@ -1,0 +1,236 @@
+[
+    {
+		"question": "Que gênero musical é esse?",
+        "correct": "Country", 
+        "wrongs": ["Funk", "Samba", "Dance", "Reggae", "Frevo"], 
+        "sound": ["country1"]
+    },
+    {
+		"question": "Que gênero musical é esse?",
+        "correct": "Country", 
+        "wrongs": ["Funk", "Samba", "Dance", "Reggae", "Frevo"], 
+        "sound": ["country2"]
+    },
+    {
+		"question": "Que gênero musical é esse?",
+        "correct": "Forró", 
+        "wrongs": ["Funk", "Samba", "Dance", "Reggae", "Frevo"], 
+        "sound": ["forro1"]
+    },
+    {
+		"question": "Que gênero musical é esse?",
+        "correct": "Forró", 
+        "wrongs": ["Funk", "Samba", "Dance", "Reggae", "Frevo"], 
+        "sound": ["forro2"]
+    },
+    {
+		"question": "Que gênero musical é esse?",
+        "correct": "Frevo", 
+        "wrongs": ["Funk", "Samba", "Dance", "Reggae", "Valsa"], 
+        "sound": ["frevo1"]
+    },
+    {
+		"question": "Que gênero musical é esse?",
+        "correct": "Frevo", 
+        "wrongs": ["Funk", "Samba", "Dance", "Reggae", "Valsa"], 
+        "sound": ["frevo2"]
+    },
+    {
+		"question": "Que gênero musical é esse?",
+        "correct": "Rock", 
+        "wrongs": ["Funk", "Samba", "Dance", "Reggae", "Valsa"], 
+        "sound": ["rock1"]
+    },
+    {
+		"question": "Que gênero musical é esse?",
+        "correct": "Rock", 
+        "wrongs": ["Funk", "Samba", "Dance", "Reggae", "Valsa"], 
+        "sound": ["rock2"]
+    },
+    {
+		"question": "Que gênero musical é esse?",
+        "correct": "Dance", 
+        "wrongs": ["Funk", "Samba", "Jazz", "Reggae", "Valsa"], 
+        "sound": ["dance1"]
+    },
+    {
+		"question": "Que gênero musical é esse?",
+        "correct": "Dance", 
+        "wrongs": ["Funk", "Samba", "Jazz", "Reggae", "Valsa"], 
+        "sound": ["dance2"]
+    },
+    {
+		"question": "Que gênero musical é esse?",
+        "correct": "Reggae", 
+        "wrongs": ["Funk", "Samba", "Jazz", "Forró", "Valsa"], 
+        "sound": ["reggae1"]
+    },
+    {
+		"question": "Que gênero musical é esse?",
+        "correct": "Reggae", 
+        "wrongs": ["Funk", "Samba", "Jazz", "Forró", "Valsa"], 
+        "sound": ["reggae2"]
+    },
+    {
+		"question": "Que gênero musical é esse?",
+        "correct": "Valsa", 
+        "wrongs": ["Funk", "Samba", "Jazz", "Forró", "Country"], 
+        "sound": ["valsa1"]
+    },
+    {
+		"question": "Que gênero musical é esse?",
+        "correct": "Valsa", 
+        "wrongs": ["Funk", "Samba", "Jazz", "Forró", "Country"], 
+        "sound": ["valsa2"]
+    },
+    {
+		"question": "Que músico é famoso por cantar nesse estilo?",
+        "correct": "João Pernambuco", 
+        "wrongs": ["Emicida", "Natiruts", "Marcelo D2", "Ed Mota", "Skank"], 
+        "sound": ["choro1"]
+    },
+    {
+		"question": "Que músico é famoso por cantar nesse estilo?",
+        "correct": "João Pernambuco", 
+        "wrongs": ["Emicida", "Natiruts", "Marcelo D2", "Ed Mota", "Skank"], 
+        "sound": ["choro2"]
+    },
+    {
+		"question": "Que músico é famoso por cantar nesse estilo?",
+        "correct": "Ed Mota", 
+        "wrongs": ["Emicida", "Natiruts", "Marcelo D2", "Criolo", "Skank"], 
+        "sound": ["dance1"]
+    },
+    {
+		"question": "Que músico é famoso por cantar nesse estilo?",
+        "correct": "Ed Mota", 
+        "wrongs": ["Emicida", "Natiruts", "Marcelo D2", "Criolo", "Skank"], 
+        "sound": ["dance2"]
+    },
+    {
+		"question": "Que músico é famoso por cantar nesse estilo?",
+        "correct": "Luis Gonzaga", 
+        "wrongs": ["Nelson Ferreira", "Natiruts", "Criolo", "Ed Mota", "Santana"],
+        "sound": ["forro1"]
+    },
+    {
+		"question": "Que músico é famoso por cantar nesse estilo?",
+        "correct": "Luis Gonzaga", 
+        "wrongs": ["Nelson Ferreira", "Natiruts", "Criolo", "Ed Mota", "Santana"],
+        "sound": ["forro2"]
+    },
+    {
+		"question": "Que músico é famoso por cantar nesse estilo?",
+        "correct": "Maestro Spock", 
+        "wrongs": ["Chico Buarque", "Natiruts", "Criolo", "Ed Mota", "Santana"],
+        "sound": ["frevo1"]
+    },
+    {
+		"question": "Que músico é famoso por cantar nesse estilo?",
+        "correct": "Nelson Ferreira", 
+        "wrongs": ["Michael Jackson", "Natiruts", "Criolo", "Ed Mota", "Santana"],
+        "sound": ["frevo2"]
+    },
+    {
+		"question": "Que músico é famoso por cantar nesse estilo?",
+        "correct": "Criolo", 
+        "wrongs": ["Nelson Ferreira", "Natiruts", "Skank", "Ed Mota", "Santana"],
+        "sound": ["funk1"]
+    },
+    {
+		"question": "Que músico é famoso por cantar nesse estilo?",
+        "correct": "Marcelo D2", 
+        "wrongs": ["Nelson Ferreira", "Natiruts", "Criolo", "Ed Mota", "Santana"],
+        "sound": ["funk2"]
+    },
+    {
+		"question": "Que músico é famoso por cantar nesse estilo?",
+        "correct": "Natiruts", 
+        "wrongs": ["Nelson Ferreira", "Marcelo D2", "Criolo", "Ed Mota", "Santana"],
+        "sound": ["reggae1"]
+    },
+    {
+		"question": "Que instrumento é característico desse estilo musical?",
+        "correct": "cavaquinho", 
+        "wrongs": ["zabumba", "banjo", "sanfona", "trompete", "bateria"],
+        "sound": ["choro1"]
+    },
+    {
+		"question": "Que instrumento é característico desse estilo musical?",
+        "correct": "cavaquinho", 
+        "wrongs": ["zabumba", "banjo", "sanfona", "trompete", "bateria"],
+        "sound": ["choro2"]
+    },
+    {
+		"question": "Que instrumento é característico desse estilo musical?",
+        "correct": "banjo", 
+        "wrongs": ["zabumba", "pandeiro", "sanfona", "trompete", "viola"],
+        "sound": ["country1"]
+    },
+    {
+		"question": "Que instrumento é característico desse estilo musical?",
+        "correct": "banjo", 
+        "wrongs": ["zabumba", "pandeiro", "sanfona", "trompete", "viola"],
+        "sound": ["country2"]
+    },
+    {
+		"question": "Que instrumento é característico desse estilo musical?",
+        "correct": "sanfona", 
+        "wrongs": ["violino", "pandeiro", "guitarra", "trompete", "bateria"],
+        "sound": ["forro1"]
+    },
+    {
+		"question": "Que instrumento é característico desse estilo musical?",
+        "correct": "sanfona", 
+        "wrongs": ["violino", "pandeiro", "guitarra", "trompete", "bateria"],
+        "sound": ["forro2"]
+    },
+    {
+		"question": "Que instrumento é característico desse estilo musical?",
+        "correct": "trompete", 
+        "wrongs": ["zabumba", "pandeiro", "guitarra", "viola", "bateria"],
+        "sound": ["frevo1"]
+    },
+    {
+		"question": "Que instrumento é característico desse estilo musical?",
+        "correct": "trompete", 
+        "wrongs": ["zabumba", "pandeiro", "guitarra", "viola", "bateria"],
+        "sound": ["frevo2"]
+    },
+    {
+		"question": "Que instrumento é característico desse estilo musical?",
+        "correct": "bateria", 
+        "wrongs": ["zabumba", "pandeiro", "sanfona", "viola", "violino"],
+        "sound": ["funk1"]
+    },
+    {
+		"question": "Que instrumento é característico desse estilo musical?",
+        "correct": "bateria", 
+        "wrongs": ["zabumba", "pandeiro", "sanfona", "viola", "violino"],
+        "sound": ["funk2"]
+    },
+    {
+		"question": "Que instrumento é característico desse estilo musical?",
+        "correct": "contrabaixo", 
+        "wrongs": ["zabumba", "pandeiro", "banjo", "viola", "violino"],
+        "sound": ["jazz1"]
+    },
+    {
+		"question": "Que instrumento é característico desse estilo musical?",
+        "correct": "piano", 
+        "wrongs": ["zabumba", "pandeiro", "banjo", "viola", "violino"],
+        "sound": ["jazz2"]
+    },
+    {
+		"question": "Que instrumento é característico desse estilo musical?",
+        "correct": "guitarra", 
+        "wrongs": ["zabumba", "pandeiro", "cavaquinho", "viola", "violino"],
+        "sound": ["rock1"]
+    },
+    {
+		"question": "Que instrumento é característico desse estilo musical?",
+        "correct": "guitarra", 
+        "wrongs": ["zabumba", "pandeiro", "cavaquinho", "viola", "violino"],
+        "sound": ["rock2"]
+    }
+]

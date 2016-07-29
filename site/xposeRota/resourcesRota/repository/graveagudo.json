@@ -1,0 +1,213 @@
+﻿[
+    {
+		"question": "Qual desses instrumentos tem o som mais grave?",
+        "correct": "Baixo", 
+        "wrongs": ["Apito"], 
+        "sound": ["baixo", "apito"]
+    },
+    {
+		"question": "Qual desses instrumentos tem o som mais grave?",
+        "correct": "Bumbo", 
+        "wrongs": ["Chimbal"], 
+        "sound": ["bumbo", "chimbal"]
+    },
+    {
+		"question": "Qual desses instrumentos tem o som mais grave?",
+        "correct": "Tom", 
+        "wrongs": ["Chimbal"], 
+        "sound": ["tom", "chimbal"]
+    },
+    {
+		"question": "Qual desses instrumentos tem o som mais grave?",
+        "correct": "Baixo", 
+        "wrongs": ["trompete"], 
+        "sound": ["baixo", "trompete"]
+    },
+    {
+		"question": "Qual desses instrumentos tem o som mais grave?",
+        "correct": "Bumbo", 
+        "wrongs": ["Triangulo"], 
+        "sound": ["triangulo","bumbo"]
+    },
+    {
+		"question": "Qual desses instrumentos tem o som mais grave?",
+        "correct": "Tom", 
+        "wrongs": ["Triangulo"], 
+        "sound": ["tom","triangulo"]
+    },
+    {
+		"question": "Qual desses sons da natureza é mais agudo?",
+        "correct": "Bem-Te-Vi", 
+        "wrongs": ["Coruja"], 
+        "sound": ["bemtevi","coruja"]
+    },
+    {
+		"question": "Qual desses sons da natureza é mais agudo?",
+        "correct": "Gato", 
+        "wrongs": ["Cachorro"], 
+        "sound": ["gato","cachorro"]
+    },
+    {
+		"question": "Qual desses sons da natureza é mais agudo?",
+        "correct": "Grilo", 
+        "wrongs": ["Vaca"], 
+        "sound": ["grilo","vaca"]
+    },
+    {
+		"question": "Qual desses sons da natureza é mais agudo?",
+        "correct": "Galo", 
+        "wrongs": ["Coruja"], 
+        "sound": ["galo","coruja"]
+    },
+    {
+		"question": "Qual desses sons da natureza é mais agudo?",
+        "correct": "Ovelha", 
+        "wrongs": ["Vaca"], 
+        "sound": ["ovelha","vaca"]
+    },
+    {
+		"question": "Qual desses sons da natureza é mais agudo?",
+        "correct": "Macaco", 
+        "wrongs": ["Cachorro"], 
+        "sound": ["macaco","cachorro"]
+    },
+    {
+		"question": "Qual desses sons da natureza é mais agudo?",
+        "correct": "Morcego", 
+        "wrongs": ["Cavalo"], 
+        "sound": ["morcego","cavalo"]
+    },
+    {
+		"question": "Qual desses sons da natureza é mais agudo?",
+        "correct": "Grilo", 
+        "wrongs": ["Coruja"], 
+        "sound": ["grilo","coruja"]
+    },
+    {
+		"question": "Qual desses sons é mais Grave?",
+        "correct": "Onibus", 
+        "wrongs": ["Ambulancia"], 
+        "sound": ["onibus","ambulancia"]
+    },
+    {
+		"question": "Qual desses sons é mais Grave?",
+        "correct": "Freada", 
+        "wrongs": ["Apito"], 
+        "sound": ["freada","apito"]
+    },
+    {
+		"question": "Qual desses sons é mais Grave?",
+        "correct": "Cantores", 
+        "wrongs": ["Cantora"], 
+        "sound": ["cantores","cantora"]
+    },
+    {
+		"question": "Qual desses sons é mais Grave?",
+        "correct": "Cantores", 
+        "wrongs": ["flauta"], 
+        "sound": ["flauta","cantores"]
+    },
+    {
+		"question": "Qual desses sons é mais Grave?",
+        "correct": "Onibus", 
+        "wrongs": ["Bemtevi"], 
+        "sound": ["onibus","bemtevi"]
+    },
+    {
+		"question": "Qual desses sons é mais Grave?",
+        "correct": "Tom", 
+        "wrongs": ["Tamborim"], 
+        "sound": ["tom","tamborim"]
+    },
+    {
+		"question": "Qual desses sons é mais Grave?",
+        "correct": "Coruja", 
+        "wrongs": ["Ovelha"], 
+        "sound": ["coruja","ovelha"]
+    },
+    {
+		"question": "Qual desses sons é mais Grave?",
+        "correct": "Onibus", 
+        "wrongs": ["Moto"], 
+        "sound": ["moto","onibus"]
+    },
+    {
+		"question": "Qual desses sons é mais Grave?",
+        "correct": "Vaca", 
+        "wrongs": ["Lobo"], 
+        "sound": ["lobo", "vaca"]
+    },
+    {
+		"question": "Qual desses sons é mais Grave?",
+        "correct": "Freada", 
+        "wrongs": ["Apito"], 
+        "sound": ["freada","apito"]
+    },
+    {
+		"question": "Qual desses sons é mais Grave?",
+        "correct": "Vaca", 
+        "wrongs": ["Ovelha"], 
+        "sound": ["ovelha","vaca"]
+    },
+    {
+		"question": "Qual desses sons é mais Grave?",
+        "correct": "Vaca", 
+        "wrongs": ["Macaco"], 
+        "sound": ["vaca","macaco"]
+    },
+    {
+		"question": "Qual desses sons é mais Grave?",
+        "correct": "Onibus", 
+        "wrongs": ["Despertador"], 
+        "sound": ["despertador","onibus"]
+    },
+	{
+		"question": "Qual desses sons é mais Agudo?",
+        "correct": "Despertador", 
+        "wrongs": ["Baixo"], 
+        "sound": ["baixo","despertador"]
+    },
+    {
+		"question": "Qual desses sons é mais Agudo?",
+        "correct": "Caixa", 
+        "wrongs": ["Bumbo"], 
+        "sound": ["bumbo","caixa"]
+    },
+    {
+		"question": "Qual desses sons é mais Agudo?",
+        "correct": "Chimbal", 
+        "wrongs": ["Tom"], 
+        "sound": ["tom","chimbal"]
+    },
+    {
+		"question": "Qual desses sons é mais Agudo?",
+        "correct": "Flauta", 
+        "wrongs": ["Baixo"], 
+        "sound": ["baixo","flauta"]
+    },
+    {
+		"question": "Qual desses sons é mais Agudo?",
+        "correct": "Chuveiro", 
+        "wrongs": ["Riacho"], 
+        "sound": ["chuveiro","riacho"]
+    },
+    {
+		"question": "Qual desses sons é mais Agudo?",
+        "correct": "Trompete", 
+        "wrongs": ["Guitarra"], 
+        "sound": ["guitarra","trompete"]
+    },
+	{
+		"question": "Qual desses sons é mais Agudo?",
+        "correct": "Flauta", 
+        "wrongs": ["Baixo"], 
+        "sound": ["flauta","baixo"]
+    },
+	{
+		"question": "Qual desses sons é mais Agudo?",
+        "correct": "Triangulo", 
+        "wrongs": ["Reco-Reco"], 
+        "sound": ["triangulo","reco-reco"]
+    }
+	
+]

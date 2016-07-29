@@ -1,0 +1,10 @@
+{
+    "activityUrl":"http://host.turmadosom.com.br:8080/turmadosom-server/report_activity",
+    "estilos":7,
+    "timbres":6,
+    "graveagudo":14,
+	"threeStarsScore":20,
+    "twoStarsScore":11,
+    "oneStarScore":6
+	
+}

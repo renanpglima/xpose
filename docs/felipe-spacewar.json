@@ -1,0 +1,78 @@
+[
+   {
+      "attributeName":"velocity",
+      "value":180,
+      "fantasyName":"velocidade da bala do inimigo",
+      "changeLog":[
+         100,
+         300,
+         250,
+         200,
+         180
+      ]
+   },
+   {
+      "attributeName":"velocity",
+      "value":205,
+      "fantasyName":"velocidade da nave",
+      "changeLog":[
+         100,
+         500,
+         250,
+         125,
+         175,
+         200,
+         225,
+         215,
+         210,
+         205
+      ]
+   },
+   {
+      "attributeName":"linesOfEnemies",
+      "value":4,
+      "fantasyName":"linhas de inimigos",
+      "changeLog":[
+         4
+      ]
+   },
+   {
+      "attributeName":"enemiesPerLine",
+      "value":10,
+      "fantasyName":"inimigos por linha",
+      "changeLog":[
+
+      ]
+   },
+   {
+      "attributeName":"life",
+      "value":0,
+      "fantasyName":"vidas iniciais",
+      "changeLog":[
+         0
+      ]
+   },
+   {
+      "attributeName":"velocity",
+      "value":12,
+      "fantasyName":"velocidade dos inimigos",
+      "changeLog":[
+         0,
+         100,
+         10,
+         5,
+         8,
+         10,
+         12
+      ]
+   },
+   {
+      "attributeName":"velocityPlayer",
+      "value":500,
+      "fantasyName":"velocidade da bala do player",
+      "changeLog":[
+         500,
+         500
+      ]
+   }
+]

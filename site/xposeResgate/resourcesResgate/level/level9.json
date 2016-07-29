@@ -1,0 +1,20 @@
+[
+{"t":0.0008, "levelScene":["City"]},
+{"t":0.0009, "setlevelBPMs":[[90, 110, 130, 150, 170]]},
+{"t":0.0010, "addLevelTime":[50]},
+{"t":0.0011, "addFireFightening":[7]},
+{"t":0.0012, "addStartLoopDuration":[12]},
+{"t":0.0014, "pauseTimeline":[]},
+
+{"t":0.0100, "addLevelIndicator":[]},
+
+{"t":0.0500, "endTutorial":[]},
+
+{"t":5.00000,"addBlockTree":[]},
+{"t":14.00000,"addPostman":["icecube"]},
+{"t":32.00000,"addPostman":["health"]},
+{"t":34.00000,"addBlockTree":[]},
+{"t":40.00000,"addBlockTree":[]},
+{"t":46.00000,"addPostman":["health"]}
+
+]
